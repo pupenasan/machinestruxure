@@ -19,7 +19,7 @@
 
 1. Конфігурування локальної та розподіленої системи I/O в Machine Expert.
    - [Встановлення середовища, створення та запуск проєкту EcoStruxure Machine Expert](https://github.com/asu-in-ua/atpv/blob/main/plc/ide/lab_mach_expert.md)
-   - Конфігурування локальної та розподіленої системи I/O в Machine Expert
+   - [Конфігурування локальної та розподіленої системи I/O в Machine Expert](https://github.com/asu-in-ua/atpv/blob/main/plc/hardware/lab_m241.md)
 2. Програмування PLC в Machine Expert.
 3. Задачі регулювання в PLC Machine Expert.
 4. Мережний обмін в PLC Machine Expert. 
