@@ -10,8 +10,8 @@
    - 1.[Функціонування, операційні режими, задачі ПЛК в Machine Expert : теоретична частина](https://github.com/asu-in-ua/atpv/blob/main/plc/operation/teormachexpert.md)
    - 2.[Робота з даними в Machine Expert: теоретична частина](https://github.com/asu-in-ua/atpv/blob/main/plc/data/teorm241.md)
    - 3.[Програмні сутності POU в в Machine Expert і CODESYS: теоретична частина](https://github.com/asu-in-ua/atpv/blob/main/plc/pou/teormachexpert.md)
-   - 
 1. Задачі керування та регулювання в машинній автоматиці.
+   - [ПІ та ПІД-регулювання в Toolbox в Machine Expert: теоретичні відомості](https://github.com/asu-in-ua/atpv/blob/main/plc/pidcontrol/teormachexpert.md)
 1. Промислові мережі в системах з PLC Machine Expert
 1. Керування перетворювачами частоти з використанням промислових мереж.
 1. Задачі керування позиціонуванням.
@@ -33,6 +33,7 @@
    - [Програмні сутності в Machine Expert і CODESYS](https://github.com/asu-in-ua/atpv/blob/main/plc/pou/labmachexpert.md)
 
 3) Задачі керування та регулювання в PLC Machine Expert.
+   - [Основи ПІ регулювання з використанням Toolbox в Machine Expert : практична частина](https://github.com/asu-in-ua/atpv/blob/main/plc/pidcontrol/labmachexpert.md)
 
 4) Мережний обмін в PLC Machine Expert. 
 
