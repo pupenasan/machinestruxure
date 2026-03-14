@@ -13,6 +13,8 @@
 1. Задачі керування та регулювання в машинній автоматиці.
    - [ПІ та ПІД-регулювання в Toolbox в Machine Expert: теоретичні відомості](https://github.com/asu-in-ua/atpv/blob/main/plc/pidcontrol/teormachexpert.md)
 1. Промислові мережі в системах з PLC Machine Expert
+   - [Огляд Industrial EtherNet в EcoStruxure Machine Expert](https://github.com/asu-in-ua/atpv/blob/main/filedbus/indethernet/teormachexpert.md)
+   - [Мережі Modbus](https://github.com/asu-in-ua/atpv/blob/main/filedbus/modbusadvanced/teor.md)
 1. Керування перетворювачами частоти з використанням промислових мереж.
 1. Задачі керування позиціонуванням.
 1. Розширені засоби програмування контролерів в середовищі Machine Expert.
@@ -36,11 +38,14 @@
    - [Основи ПІ регулювання з використанням Toolbox в Machine Expert : практична частина](https://github.com/asu-in-ua/atpv/blob/main/plc/pidcontrol/labmachexpert.md)
 
 4) Мережний обмін в PLC Machine Expert. 
+   - [Реалізація Modbus TCP Server в CODESYS Control Win з використанням бібліотеки ModbusFB](https://github.com/asu-in-ua/atpv/blob/main/filedbus/modbusadvanced/mbserver_codesys.md)
+   - [Реалізація Modbus TCP Client в CODESYS Control Win з використанням бібліотеки ModbusFB](https://github.com/asu-in-ua/atpv/blob/main/filedbus/modbusadvanced/mbclient_codesys.md)
 
-5) Робота з перетворювачами частоти.
 
-6) Системи керування з функціями позиціонування.
+3) Робота з перетворювачами частоти.
 
-7) Інтегрування з використанням OPC UA.
+4) Системи керування з функціями позиціонування.
 
-8) Інтегрування з використанням технологій IoT.
+5) Інтегрування з використанням OPC UA.
+
+6) Інтегрування з використанням технологій IoT.
