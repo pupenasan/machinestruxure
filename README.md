@@ -15,7 +15,11 @@
 1. Промислові мережі в системах з PLC Machine Expert
    - [Огляд Industrial EtherNet в EcoStruxure Machine Expert](https://github.com/asu-in-ua/atpv/blob/main/filedbus/indethernet/teormachexpert.md)
    - [Мережі Modbus](https://github.com/asu-in-ua/atpv/blob/main/filedbus/modbusadvanced/teor.md)
-1. Керування перетворювачами частоти з використанням промислових мереж.
+1. Керування пристроями з використанням промислових мереж 
+
+   - [Технологія FDT/DTM](https://github.com/asu-in-ua/atpv/blob/main/filedbus/fdtdtm/teor.md)
+
+   - Керування перетворювачами частоти з використанням промислових мереж.
 1. Задачі керування позиціонуванням.
 1. Розширені засоби програмування контролерів в середовищі Machine Expert.
 1. Інтегрування в системи керування роботизованими системами.
