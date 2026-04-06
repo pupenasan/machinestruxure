@@ -45,10 +45,14 @@
    - [Реалізація Modbus TCP Server в CODESYS Control Win з використанням бібліотеки ModbusFB](https://github.com/asu-in-ua/atpv/blob/main/filedbus/modbusadvanced/mbserver_codesys.md)
    - [Реалізація Modbus TCP Client в CODESYS Control Win з використанням бібліотеки ModbusFB](https://github.com/asu-in-ua/atpv/blob/main/filedbus/modbusadvanced/mbclient_codesys.md)
 
+5) Робота з перетворювачами частоти.
 
-3) Робота з перетворювачами частоти.
    - [Використання FDT/DTM для конфігурування та налаштування ПЧ Altivar: практична частина](https://github.com/asu-in-ua/atpv/blob/main/filedbus/fdtdtm/lab.md)
+
    - [Керування ПЧ Altivar з використанням профілю CIA402: практична частина](https://github.com/asu-in-ua/atpv/blob/main/filedbus/pds/lab.md)
-4) Системи керування з функціями позиціонування.
-5) Інтегрування з використанням OPC UA.
-6) Інтегрування з використанням технологій IoT.
+
+6) Системи керування з функціями позиціонування.
+
+7) Інтегрування з використанням OPC UA.
+
+8) Інтегрування з використанням технологій IoT.
