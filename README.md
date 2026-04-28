@@ -19,8 +19,10 @@
 
    - [Технологія FDT/DTM](https://github.com/asu-in-ua/atpv/blob/main/filedbus/fdtdtm/teor.md)
 
-   - Керування перетворювачами частоти з використанням промислових мереж.
-1. Задачі керування позиціонуванням.
+   - [Керування перетворювачами частоти з використанням промислових мереж](https://github.com/asu-in-ua/atpv/blob/main/filedbus/pds/teor1.md).
+1. Задачі керування переміщенням.
+   - [Вступ до керування переміщенням](https://github.com/asu-in-ua/atpv/blob/main/motion/intro/teor.md)
+   - [Стандарт PLCOPEN motion control](https://github.com/asu-in-ua/atpv/blob/main/filedbus/pds/plcopenmotion.md)
 1. Розширені засоби програмування контролерів в середовищі Machine Expert.
 1. Інтегрування в системи керування роботизованими системами.
 
